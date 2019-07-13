@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnny-911.github.io/</id>
     <title>美食打卡</title>
-    <updated>2019-07-13T07:23:43.258Z</updated>
+    <updated>2019-07-13T07:26:59.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnny-911.github.io/"/>
     <link rel="self" href="https://johnny-911.github.io//atom.xml"/>
@@ -10,44 +10,6 @@
     <logo>https://johnny-911.github.io//images/avatar.png</logo>
     <icon>https://johnny-911.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 美食打卡</rights>
-    <entry>
-        <title type="html"><![CDATA[2019年体重记录]]></title>
-        <id>https://johnny-911.github.io//post/2019tizhongjilu</id>
-        <link href="https://johnny-911.github.io//post/2019tizhongjilu">
-        </link>
-        <updated>2019-07-13T05:41:53.000Z</updated>
-        <content type="html"><![CDATA[<table>
-	<tr><th bgcolor=#D1EEEE>日期</th><th bgcolor=#D1EEEE>上机前</th><th bgcolor=#D1EEEE>下机</th></tr>
-	<tr><td>28</td><td>71.6</td><td>69.5</td></tr>
-	<tr><td>24</td><td>71</td><td>69</td></tr>
-</table>
----
-> 6月
-* **28号** ⇧[71.6] ➾[69.5]
-* **24号** ⇧[71] ➾[69]
-* **21号** ⇧[71] ➾[68.6]
-* **17号** ⇧[71.6] ➾[68.6]
-* **14号**⇧[70.65] ➾[68.85]
-* **10号** ⇧[71.25] ➾[68.5]
-* **07号** ⇧[70.85] ➾[68.15]
-* **03号** ⇧[71.05] ➾[68.15]
----
-> 5月
-* **29号**  ⇧[71.3] ➾[68.25]
-* **27号**  ⇧[71.15] ➾[68.35]
-* **24号** ⇧[70.2] ➾[68.25]
-* **22号** ⇧[70.15] ➾[67.1]
-* **20号** ⇧[69.6] ➾[67.8]
-* **17号** ⇧[71.15] ➾[67.85]
-* **15号** ⇧[71.05] ➾[68.1]
-* **13号**⇧[71.75] ➾[68.6]
-* **10号** ⇧[70.9] ➾[67.95]
-* **08号** ⇧[71.55] ➾[68.5]
-* **06号** ⇧[71.8] ➾[68.7]
-* **03号** ⇧[71.7] ➾[68.9]
-* **01号** ⇧[73.15] ➾[70]
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://johnny-911.github.io//post/hello-gridea</id>
