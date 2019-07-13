@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnny-911.github.io/</id>
     <title>美食打卡</title>
-    <updated>2019-07-13T07:27:51.608Z</updated>
+    <updated>2019-07-13T07:32:06.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnny-911.github.io/"/>
     <link rel="self" href="https://johnny-911.github.io//atom.xml"/>
@@ -16,34 +16,39 @@
         <link href="https://johnny-911.github.io//post/2019tizhongjilu">
         </link>
         <updated>2019-07-13T05:41:53.000Z</updated>
-        <content type="html"><![CDATA[<table colspan=2>
-	<tr bgcolor=#D1EEEE><th>日期</th><th>上机前</th><th>下机</th></tr>
-	<tr><td>28</td><td>71.6</td><td>69.5</td></tr>
-	<tr><td>24</td><td>71</td><td>69</td></tr>
-</table>
-> 6月
-* **28号** ⇧[71.6] ➾[69.5]
-* **24号** ⇧[71] ➾[69]
-* **21号** ⇧[71] ➾[68.6]
-* **17号** ⇧[71.6] ➾[68.6]
-* **14号**⇧[70.65] ➾[68.85]
-* **10号** ⇧[71.25] ➾[68.5]
-* **07号** ⇧[70.85] ➾[68.15]
-* **03号** ⇧[71.05] ➾[68.15]
-> 5月
-* **29号**  ⇧[71.3] ➾[68.25]
-* **27号**  ⇧[71.15] ➾[68.35]
-* **24号** ⇧[70.2] ➾[68.25]
-* **22号** ⇧[70.15] ➾[67.1]
-* **20号** ⇧[69.6] ➾[67.8]
-* **17号** ⇧[71.15] ➾[67.85]
-* **15号** ⇧[71.05] ➾[68.1]
-* **13号**⇧[71.75] ➾[68.6]
-* **10号** ⇧[70.9] ➾[67.95]
-* **08号** ⇧[71.55] ➾[68.5]
-* **06号** ⇧[71.8] ➾[68.7]
-* **03号** ⇧[71.7] ➾[68.9]
-* **01号** ⇧[73.15] ➾[70]
+        <content type="html"><![CDATA[<p>###---</p>
+<blockquote>
+<p>6月</p>
+</blockquote>
+<ul>
+<li><strong>28(五)</strong>  | ⇧[71.6] | ➾[69.5] |</li>
+<li><strong>24(一)</strong>  | ⇧[71] | ➾[69] |</li>
+<li><strong>21(五)</strong>  | ⇧[71] | ➾[68.6] |</li>
+<li><strong>17(一)</strong> ⇧[71.6] ➾[68.6]</li>
+<li><strong>14(五)</strong> ⇧[70.65] ➾[68.85]</li>
+<li><strong>10(一)</strong> ⇧[71.25] ➾[68.5]</li>
+<li><strong>07(五)</strong> ⇧[70.85] ➾[68.15]</li>
+<li><strong>03(一)</strong> ⇧[71.05] ➾[68.15]
+###---</li>
+</ul>
+<blockquote>
+<p>5月</p>
+</blockquote>
+<ul>
+<li><strong>29号</strong>  ⇧[71.3] ➾[68.25]</li>
+<li><strong>27号</strong>  ⇧[71.15] ➾[68.35]</li>
+<li><strong>24号</strong> ⇧[70.2] ➾[68.25]</li>
+<li><strong>22号</strong> ⇧[70.15] ➾[67.1]</li>
+<li><strong>20号</strong> ⇧[69.6] ➾[67.8]</li>
+<li><strong>17号</strong> ⇧[71.15] ➾[67.85]</li>
+<li><strong>15号</strong> ⇧[71.05] ➾[68.1]</li>
+<li><strong>13号</strong>⇧[71.75] ➾[68.6]</li>
+<li><strong>10号</strong> ⇧[70.9] ➾[67.95]</li>
+<li><strong>08号</strong> ⇧[71.55] ➾[68.5]</li>
+<li><strong>06号</strong> ⇧[71.8] ➾[68.7]</li>
+<li><strong>03号</strong> ⇧[71.7] ➾[68.9]</li>
+<li><strong>01号</strong> ⇧[73.15] ➾[70]</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
