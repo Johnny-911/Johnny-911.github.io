@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnny-911.github.io/</id>
     <title>美食打卡</title>
-    <updated>2019-07-13T05:51:34.916Z</updated>
+    <updated>2019-07-13T06:04:40.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnny-911.github.io/"/>
     <link rel="self" href="https://johnny-911.github.io//atom.xml"/>
@@ -11,26 +11,28 @@
     <icon>https://johnny-911.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 美食打卡</rights>
     <entry>
-        <title type="html"><![CDATA[2019-5 体重记录]]></title>
-        <id>https://johnny-911.github.io//post/2019-5-ti-chong-ji-lu</id>
-        <link href="https://johnny-911.github.io//post/2019-5-ti-chong-ji-lu">
+        <title type="html"><![CDATA[2019年体重记录(每月更新)]]></title>
+        <id>https://johnny-911.github.io//post/2019tizhongjilu</id>
+        <link href="https://johnny-911.github.io//post/2019tizhongjilu">
         </link>
         <updated>2019-07-13T05:41:53.000Z</updated>
-        <content type="html"><![CDATA[<p>####5月
-<strong>5-29</strong> 71.3 68.25
-<strong>5-27</strong> 71.15 68.35</p>
+        <content type="html"><![CDATA[<p>######5月</p>
+<blockquote>
+<p>5-29 [71.3] [68.25]
+5-27 [71.15] [68.35]
+5-24 [70.2] [68.25]</p>
+</blockquote>
 <ul>
-<li>[5-24] - 70.2 68.25</li>
-<li>[5-22] - 70.15 67.1
-5-20 69.6 67.8
-5-17 71.15 67.85
-5-15 71.05 68.1
-5-13 71.75 68.6
-5-10 70.9 67.95
-5-8 71.55 68.5
-5-6 71.8 68.7
-5-3 71.7 68.9
-5-1 73.15 70</li>
+<li>[5-22] - [70.15] [67.1]</li>
+<li>[5-20] [69.6] [67.8]
+5-17 [71.15] [67.85]
+5-15 [71.05] [68.1]
+5-13 [71.75] [68.6]
+5-10 [70.9] [67.95]
+5-8 [71.55] [68.5]
+5-6 [71.8] [68.7]
+5-3 [71.7] [68.9]
+5-1 [73.15] [70]</li>
 </ul>
 ]]></content>
     </entry>
