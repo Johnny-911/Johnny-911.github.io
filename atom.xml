@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnny-911.github.io/</id>
     <title>美食打卡</title>
-    <updated>2019-07-13T07:19:31.601Z</updated>
+    <updated>2019-07-13T07:23:43.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnny-911.github.io/"/>
     <link rel="self" href="https://johnny-911.github.io//atom.xml"/>
@@ -17,10 +17,11 @@
         </link>
         <updated>2019-07-13T05:41:53.000Z</updated>
         <content type="html"><![CDATA[<table>
-	<tr><th bgcolor=#FF00FF>日期</th><th>上机前</th><th>下机</th></tr>
-	<tr><td bgcolor=#FF00FF>28</td><td>71.6</td><td>69.5</td></tr>
-	<tr><td bgcolor=#FF00FF>24</td><td>71</td><td>69</td></tr>
+	<tr><th bgcolor=#D1EEEE>日期</th><th bgcolor=#D1EEEE>上机前</th><th bgcolor=#D1EEEE>下机</th></tr>
+	<tr><td>28</td><td>71.6</td><td>69.5</td></tr>
+	<tr><td>24</td><td>71</td><td>69</td></tr>
 </table>
+---
 > 6月
 * **28号** ⇧[71.6] ➾[69.5]
 * **24号** ⇧[71] ➾[69]
