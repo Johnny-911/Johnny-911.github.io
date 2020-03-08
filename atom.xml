@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnny-911.github.io/</id>
     <title>美食打卡</title>
-    <updated>2020-01-05T07:24:04.903Z</updated>
+    <updated>2020-03-08T09:19:57.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnny-911.github.io/"/>
     <link rel="self" href="https://johnny-911.github.io//atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://johnny-911.github.io//images/avatar.png</logo>
     <icon>https://johnny-911.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, 美食打卡</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年体重记录(上)]]></title>
+        <id>https://johnny-911.github.io//post/2020-nian-ti-chong-ji-lu-shang</id>
+        <link href="https://johnny-911.github.io//post/2020-nian-ti-chong-ji-lu-shang">
+        </link>
+        <updated>2020-03-08T09:04:29.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2019年体重记录]]></title>
         <id>https://johnny-911.github.io//post/tz19</id>
